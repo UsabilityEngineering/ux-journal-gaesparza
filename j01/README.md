@@ -1,5 +1,4 @@
 # Map the World
-=============
 
 By: Gabe Esparza 11/22/2024
 
