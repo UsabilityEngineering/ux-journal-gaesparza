@@ -4,8 +4,8 @@ I am a Computer Information Systems student. At first I was supposed to be just 
 
 ## UX Team Project
 
-Coming soon.
+Odd Jobs
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Map the World](j01/)
